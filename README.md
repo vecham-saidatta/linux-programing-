@@ -4,11 +4,11 @@ Activity 1
 In this part, I played around with different ls command options (all the way from -b to -z).
 I also tried some basic navigation commands like:
 
-whoami (to see which user I’m logged in as)
+1)whoami (to see which user I’m logged in as)
 
-pwd (to know my current working directory)
+2)pwd (to know my current working directory)
 
-cd (to move around between directories)
+3)cd (to move around between directories)
 
 On top of that, I experimented with the tree command and checked how it looks with different depth levels.
 
@@ -26,23 +26,23 @@ Activity 2
 
 Here I went a bit deeper. I used more tree command options like:
 
--a (shows hidden files)
+1)-a (shows hidden files)
 
--d (shows only directories)
+2)-d (shows only directories)
 
--u (displays the owner)
+3)-u (displays the owner)
 
--p (shows permissions)
+4)-p (shows permissions)
 
 I also tried out a few networking commands such as:
 
-ifconfig
+1)ifconfig
 
-ping
+2)ping
 
-traceroute
+3)traceroute
 
-nmap
+4)nmap
 
 And of course, I used mkdir to create directories while practicing.
 

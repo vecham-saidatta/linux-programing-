@@ -1,2 +1,1 @@
 # linux-programing-
-command ls
